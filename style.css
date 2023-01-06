@@ -1,0 +1,50 @@
+body {
+background-color: #202124;
+}
+
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+color: #BD93F9;
+margin-left: 20px;
+}
+p {
+font-family: Arial, Helvetica, sans-serif;
+color: #D2D0D2;
+margin-left: 20px;
+
+}
+p1 {
+font-family: Arial, Helvetica, sans-serif;
+color: #D2D0D2;
+margin-left: 20px;
+}
+div{
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+margin-left: -20x;
+text-align: center;
+}
+
+table{
+font-family: Arial, Helvetica, sans-serif;
+color: #D2D0D2;
+margin-left: 0px;
+text-align: left;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.grid-item {
+  background-color: #2B3245;
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 20px;
+}
+iframe {
+  text-align: center;
+  margin-right: -1000000px;
+  margin-top: 20px;
+}
